@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @juniorsumaili
-- 👀 I’m interested in relational data base
-- 🌱 I’m currently learning bash
-- 💞️ I’m looking to collaborate on everything 
+- 👀 I am fascinated by the potential of data to drive insights and inform decision-making. I am junior proficient in a range of data analytics tools, including SQL, Excel, and Tableau, and I am passionate about leveraging these technologies to collect, clean, and analyze data. With a keen eye for detail and a natural ability to identify patterns and trends.
+- 🌱 I’m currently learning Advanaced Excel and Tableau.
+- 💞️ I’m looking to collaborate on some of my projects. 
 - 📫 And you can reach me out on juniorsumaili9@gmail.com/ junior baka wa bana (facebook)
 
 <!---
